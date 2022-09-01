@@ -154,5 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Firaol Asrat - [Github](https://github.com/firaolw)
+Firaol Asrat - [Github](https://github.com/firaolw) and 
 Clinton Ogayi - [Github](http://github.com/Clintonkes) 
